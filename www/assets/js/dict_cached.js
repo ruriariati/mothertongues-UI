@@ -1,4 +1,1 @@
-var dataDict = [
-    { "source": "CustomizeYourSource1", "definition": "sample definition 1", "optional": [{ "Sample Optional Information": "Unicode works: ❤ ☀ ☆ ☂ ☻ ♞ ☯ ☭ ☢ €" }], "word": "sample word 1", "sorting_form": [18], "entryID": "1", "audio": [{"filename": "https://www2.cs.uic.edu/~i101/SoundFiles/StarWars60.wav"}] },
-    { "source": "CustomizeYourSource2", "definition": "sample definition 2", "optional": [{ "Sample Optional Information": "Unicode works: ❤ ☀ ☆ ☂ ☻ ♞ ☯ ☭ ☢ €" }], "word": "sample word 2", "sorting_form": [18], "entryID": "2", "img": "https://via.placeholder.com/225?text=Sample+MTD+Image" }
-]
+var dataDict = [{"source": "Words", "definition": "cat", "theme": "animal", "word": "kucing", "sorting_form": [36, 46, 28, 34, 39, 32], "entryID": "2"}, {"source": "Words", "definition": "lazy", "theme": "adjective", "word": "male", "sorting_form": [38, 26, 37, 30], "entryID": "3"}, {"source": "Words", "definition": "miss", "theme": "verb", "word": "rindu", "sorting_form": [43, 34, 39, 29, 46], "entryID": "1"}, {"source": "Words", "definition": "house", "theme": "building", "word": "rumah", "sorting_form": [43, 46, 38, 26, 33], "entryID": "0"}]
